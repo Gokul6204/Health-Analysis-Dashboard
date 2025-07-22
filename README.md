@@ -25,7 +25,7 @@ This Power BI project presents an interactive Health Analytics Dashboard built u
 
 ## 📸 Dashboard Preview
 
-![Health Dashboard Overview](Screenshot/Health_dashboard_overview.png")
+![Health Dashboard Overview]("Health-Analysis-Dashboard/Screenshot/Health_dashboard_overview.png")
 
 ## 🚀 How to Use
 
