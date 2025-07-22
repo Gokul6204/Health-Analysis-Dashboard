@@ -2,6 +2,9 @@
 
 This Power BI project presents an interactive Health Analytics Dashboard built using real-world patient data. It visualizes key health indicators to uncover trends and support data-driven decision-making in healthcare.
 
+🌐 **Live Report:**  
+👉 [View Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/8a97c5e0-b6a7-4e5c-b06a-0752abe6087c/83271b851b580cf62896?experience=power-bi)
+
 ## 📊 Features
 
 - **Demographics Breakdown**: Gender and age distribution.
@@ -18,11 +21,11 @@ This Power BI project presents an interactive Health Analytics Dashboard built u
 
 - `Health Dashboard.pbix` – Power BI report file
 - `Health.xlsx` – Original dataset used for the dashboard
-- `screenshots/health-dashboard-overview.png` – Sample screenshot of the dashboard
+- `Screenshot\Health_dashboard_overview.png` – Sample screenshot of the dashboard
 
 ## 📸 Dashboard Preview
 
-![Health Dashboard Overview](screenshots/health-dashboard-overview.png)
+![Health Dashboard Overview](Screenshot\Health_dashboard_overview.png")
 
 ## 🚀 How to Use
 
