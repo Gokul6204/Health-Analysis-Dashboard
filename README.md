@@ -21,11 +21,11 @@ This Power BI project presents an interactive Health Analytics Dashboard built u
 
 - `Health Dashboard.pbix` – Power BI report file
 - `Health.xlsx` – Original dataset used for the dashboard
-- `Screenshot\Health_dashboard_overview.png` – Sample screenshot of the dashboard
+- `Screenshot/Health_dashboard_overview.png` – Sample screenshot of the dashboard
 
 ## 📸 Dashboard Preview
 
-![Health Dashboard Overview](Screenshot\Health_dashboard_overview.png")
+![Health Dashboard Overview](Screenshot/Health_dashboard_overview.png")
 
 ## 🚀 How to Use
 
